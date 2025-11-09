@@ -1,0 +1,42 @@
+.DS_Store
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# Environments & secrets
+.env
+.env.*
+.env.local
+secrets/
+.secrets/
+
+# Temporary / cache / builds
+tmp/
+.tmp/
+cache/
+dist/
+build/
+coverage/
+
+# Archives and large binaries
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+
+# Logs
+logs/
+*.log
