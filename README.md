@@ -4,7 +4,6 @@
 [![Mermaid Diagrams](https://img.shields.io/badge/Diagrams-Mermaid-00B4D8)](https://mermaid.js.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls)
 
-Bu belge GitHub için optimize edilmiştir: net başlıklar, içindekiler (ToC), okunabilir kod blokları, Mermaid diyagramları, sürümleme notları ve katkı yönergeleri içerir. Depoda görüntülerken tüm bölümler GitHub arayüzünde doğru çalışır.
 
 ## 0. İçindekiler (Table of Contents)
 
